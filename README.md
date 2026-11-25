@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:537CC3,100:66E3C4&amp;height=170&amp;section=header" width="100%" alt="Blue-to-mint gradient wave banner" />
+</p>
 <h1 align="center">Hi, I'm Mohan Chen 👋</h1>
 <p align="center"><strong>Computer Science @ SJTU · MVIG-RHOS · Game AI & Interactive Worlds</strong></p>
 <p align="center">Exploring how agents perceive, act, and learn through interaction in game worlds.</p>
@@ -92,4 +95,5 @@ I enjoy **photography**, game development, and exploring interactive worlds—bo
 <p align="center"><sub>Learning through experiments. Building through curiosity.</sub></p>
 
 
-<!-- Profile visuals: DenverCoder1/readme-typing-svg, tandpfun/skill-icons, Platane/snk, Shields.io. -->
+<!-- Profile visuals: DenverCoder1/readme-typing-svg, tandpfun/skill-icons, Platane/snk, Shields.io, kyechan99/capsule-render. -->
+
