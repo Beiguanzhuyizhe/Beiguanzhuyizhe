@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Mohan Chen — personal GitHub profile</title>
+<desc id="desc">Dark navy banner with mint orbital lines and a personal workspace label.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172b3a"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8ca8bb" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+<g fill="none" stroke="#66e3c4"><circle cx="1040" cy="160" r="112" opacity=".18"/><circle cx="1040" cy="160" r="78" opacity=".35"/><ellipse cx="1040" cy="160" rx="145" ry="45" transform="rotate(-35 1040 160)" opacity=".5"/></g><circle cx="1127" cy="80" r="7" fill="#66e3c4"/>
+<path d="M64 66h32" stroke="#66e3c4" stroke-width="4"/>
+<text x="64" y="105" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4" fill="#66e3c4">PERSONAL WORKSPACE / GITHUB</text>
+<text x="60" y="180" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" fill="#f0f6fc">Mohan Chen</text>
+<text x="64" y="230" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#a8becd">Game AI. Visual learning. Interactive worlds.</text>
+<text x="64" y="282" font-family="Consolas,monospace" font-size="13" fill="#66e3c4">WELCOME TO MY CORNER OF THE INTERNET</text>
+</svg>
+
