@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Mohan Chen — Game AI, visual learning, and interactive worlds" />
-</p>
-
 <h1 align="center">Hi, I'm Mohan Chen 👋</h1>
 <p align="center"><strong>Computer Science @ SJTU · MVIG-RHOS · Game AI & Interactive Worlds</strong></p>
 <p align="center">Exploring how agents perceive, act, and learn through interaction in game worlds.</p>
