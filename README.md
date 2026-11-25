@@ -11,11 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.christinachen.cn/">Game Portfolio ↗</a> &nbsp; / &nbsp;
-  <a href="#research">Research</a> &nbsp; / &nbsp;
-  <a href="#games--recognition">Games & Recognition</a> &nbsp; / &nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-  <a href="#connect">Connect</a>
+  <a href="mailto:3180257658@qq.com"><img src="https://img.shields.io/badge/Email-3180257658%40qq.com-377EB8?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email: 3180257658@qq.com" height="25" /></a>
+  <a href="https://www.christinachen.cn/"><img src="https://img.shields.io/badge/Portfolio-Game%20Projects-289E87?style=flat-square" alt="Portfolio: Game Projects" height="25" /></a>
+  <img src="https://img.shields.io/badge/SJTU-IEEE%20Honor%20Class-C95050?style=flat-square" alt="SJTU: IEEE Honor Class" height="25" />
+</p>
+<p align="center">
+  <a href="#research"><img src="https://img.shields.io/badge/Research-Game%20AI-537CC3?style=flat-square" alt="Research: Game AI" height="23" /></a>
+  <a href="#games--recognition"><img src="https://img.shields.io/badge/Games-Recognition-B88638?style=flat-square" alt="Games: Recognition" height="23" /></a>
+  <a href="#toolbox"><img src="https://img.shields.io/badge/Toolbox-Skills-289E87?style=flat-square" alt="Toolbox: Skills" height="23" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-Say%20Hello-8B68B1?style=flat-square" alt="Connect: Say Hello" height="23" /></a>
 </p>
 
 ---
@@ -63,8 +67,8 @@ Built a distributed messaging system using an asynchronous TCP server and a cust
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,cs,js,pytorch,opencv,unity,unreal,linux,git,ps&amp;theme=dark&amp;perline=6" />
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,pytorch,opencv,unity,unreal,linux,git,ps&amp;theme=light&amp;perline=6" alt="Python, C++, C#, JavaScript, PyTorch, OpenCV, Unity, Unreal Engine, Linux, Git, Photoshop" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Ccs%2Cjs%2Cpytorch%2Copencv%2Cunity%2Cunreal%2Clinux%2Cgit%2Cps&amp;theme=dark&amp;perline=6" />
+  <img src="https://skillicons.dev/icons?i=python%2Ccpp%2Ccs%2Cjs%2Cpytorch%2Copencv%2Cunity%2Cunreal%2Clinux%2Cgit%2Cps&amp;theme=light&amp;perline=6" alt="Python, C++, C#, JavaScript, PyTorch, OpenCV, Unity, Unreal Engine, Linux, Git, Photoshop" />
 </picture>
 
 **Languages** &nbsp; Python / C++ / C# / JavaScript / HTML & CSS / SQL basics  
@@ -92,4 +96,4 @@ I enjoy **photography**, game development, and exploring interactive worlds—bo
 <p align="center"><sub>Learning through experiments. Building through curiosity.</sub></p>
 
 
-<!-- Profile visuals: DenverCoder1/readme-typing-svg, tandpfun/skill-icons, Platane/snk. -->
+<!-- Profile visuals: DenverCoder1/readme-typing-svg, tandpfun/skill-icons, Platane/snk, Shields.io. -->
